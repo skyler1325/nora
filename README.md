@@ -1,2 +1,7 @@
 # nora
-my friend
+
+## kind
+
+## cool
+
+## best person ever
