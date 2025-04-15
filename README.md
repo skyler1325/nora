@@ -1,7 +1,7 @@
 # nora
 
-## kind
+### kind
 
-## cool
+### cool
 
-## best person ever
+### best person ever
