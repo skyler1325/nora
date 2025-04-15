@@ -1,0 +1,2 @@
+# nora
+my friend
